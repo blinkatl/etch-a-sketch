@@ -1,0 +1,20 @@
+body {
+    background: darkslategrey;
+    display: flex;
+    justify-content: center;
+}
+
+.main-container {
+    border: 3px solid grey;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    background: lightgrey;
+    width: calc(600px / 16);
+    height: calc(600px / 16);
+}
+
