@@ -1,5 +1,6 @@
 body {
     background: darkslategrey;
+    font-family: "Roboto", sans-serif;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -12,6 +13,13 @@ body {
     height: 300px;
     background-color: bisque;
     margin-left: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sliderText {
+    text-align: center;
 }
 
 .main-container {
