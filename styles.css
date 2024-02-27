@@ -32,8 +32,6 @@ body {
 
 .square {
     background: lightgrey;
-    width: calc(600px / 16);
-    height: calc(600px / 16);
 }
 
 
